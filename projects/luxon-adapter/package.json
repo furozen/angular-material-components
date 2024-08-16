@@ -1,6 +1,6 @@
 {
   "name": "@angular-material-components-awm/luxon-adapter",
-  "version": "16.0.1",
+  "version": "17.0.1",
   "description": "Angular Material LUXON Adapter",
   "author": "HO Hong Quan/AWM",
   "license": "MIT",
@@ -10,8 +10,8 @@
   },
   "homepage": "https://github.com/furozen/angular-material-components",
   "peerDependencies": {
-    "@angular/common": "^16.0.0",
-    "@angular/core": "^16.0.0",
-    "luxon": "^3.0.0"
+    "@angular/common": "^17.0.0",
+    "@angular/core": "^17.0.0",
+    "luxon": "^3.5.0"
   }
 }
